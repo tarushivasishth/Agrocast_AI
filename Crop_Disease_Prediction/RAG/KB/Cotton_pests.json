@@ -1,0 +1,327 @@
+[
+  {
+    "crop": "Cotton",
+    "diseases": [
+      {
+        "name": "Fruit borer: Helicoverpa armiger",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_1.html",
+        "symptoms": [
+          "Regular circular boreholes on bolls.",
+          "Presence of granular faecal pellets outside bore hole.",
+          "Larva seen hanging in bore hole with head and part of abdomen thrust inside."
+        ],
+        "management": {
+          "management_practices": [
+            "Pest monitoring through light traps 1 /acre, pheromone traps 5 /acre and in situ assessments by roving and fixed plot surveys has to be intensified at farm, village, block, regional and State level.",
+            "Synchronized sowing of cotton preferably with short duration varieties.",
+            "Avoid continuous cropping of cotton both during winter and summer seasons in the same area as well as ratooning.",
+            "Avoid monocropping.",
+            "Growing of less preferred crops like greengram, blackgram, soyabean, castor, sorghum etc., along with the cotton as intercrop or border crop or alternate crop.",
+            "Removal and destruction of crop residues to avoid carryover of the pest to the next season.",
+            "Judicious use of nitrogenous fertilizers.",
+            "Judicious water management for the crop.",
+            "Application of Nuclear Polyhedrosis Virus (NPV) at 1.2 x 1012 POB / acre in evening hours at 7th and 12th week after sowing.",
+            "Application of Bacillus thuringiensis var. kurstaki  5%WP 300-400g/acre or  Beauveria bassiana 1.15%WP 160g/acre.",
+            "Inundative release of egg parasitoid, Trichogramma chilonis at 2.5 cc / acre at 15 days interval 3 times from 45 days after sowing.",
+            "Release of predator Chrysopa zastrowi sillemi at 40000 / acre at 6th, 13th and 14th week after sowing.",
+            "ULV spray of NPV at 1.2 x 1012 POB / acre with 10% cotton seed kernel extract, 10% crude sugar, 0.1% each of Tinopal and Teepol.",
+            "Avoid indiscriminate use of insecticides, particularly synthetic pyrethroids.",
+            "Avoid combination of insecticides as tank mix.",
+            "Adopt proper delivery system using spraying equipments like hand compression sprayer, knapsack sprayer and mist blower to ensure proper coverage with required quantity of spray fluid and avoid ULV applications or Akela spray applications.",
+            "Proper mixing and preparation of spray fluid for each filling of spray fluid tank",
+            "At early stages of square formation apply one of the following insecticides viz.,",
+            "Azadirachtin 0.03% EC 1000ml/acre or Diflubenzuron 25% WP 120-140g/acre or Emamectin benzoate 5% SG 76-88g/acre or Fipronil 5% SC 800ml/acre or Flubendiamide 20% WG 100g/acre or Flubendiamide 39.35% SC 40-50 ml/acre or Indoxacarb 14.5% SC 200ml/acre or Novaluron 10%EC 400ml/acre or Pyridalyl 10% EC 300-400ml/acre or Chlorantraniliprole 18.5% SC 60ml/acre or Lufenuron 5.4% EC 240ml/acre or Spinosad 45.0% SC 66-88ml/acre.",
+            "During boll formation and maturation stage, apply any one of the following insecticides viz.,Chlorantraniliprole 18.5% SC 60 ml/acre or Lufenuron 5.4% EC 240 ml/acre or Spinosad 45.0% SC 66-88ml/acre."
+          ]
+        }
+      },
+      {
+        "name": "Pink bollworm: Pectinophora gossypiella",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_2.html",
+        "symptoms": [
+          "Rosetted flowers.",
+          "Excreta observed at the point of bore holes by larval feeding. .",
+          "Interlocular boring and formation of double seeds.",
+          "The attacked buds and immature bolls drop off. Discoloured lint and burrowed seeds."
+        ],
+        "management": {
+          "management_practices": [
+            "Use pheromone traps to monitor the adult moth activity @ 5 / acre.",
+            "Spraying any one of the insecticides viz.,\n Emamectin benzoate 5% SG 76 â 88 g/acre or Diflubenzuron 25%WP 120-140 g/acre or Chlorantraniliprole18.5% SC 60 ml /acre."
+          ]
+        }
+      },
+      {
+        "name": "Spotted bollworms:Â Earias vittella, Â Spiny bollworm:Â Earias insulana Â",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_3.html",
+        "symptoms": [
+          "Drying and drooping of  terminal shoots during pre-flowering stage",
+          "Shedding of squares and  young bolls",
+          "Flaring up of bracts during  square and young boll formation stage",
+          "Holes on bolls and rotting  of bolls"
+        ],
+        "management": {
+          "management_practices": [
+            "Collection and removal infested squares and flowers.",
+            "Alternate crops should be removed.",
+            "Application of Bacillus thuringiensis var. kurstaki 5% WP300-400g / acre or",
+            "Spray any one of the following insecticides viz.,",
+            "Flubendiamide 39.35%SC40-50 ml/acre or Chlorantraniliprole 18.5% SC 60 ml/acre or",
+            "Indoxacarb 14.5%SC 200ml/acre or Diflubenzuron 25%WP 120-140g/acre or Fipronil 5% SC 800ml/acre or Spinetoram 11.7 % SC @ 168-188 ml/acre."
+          ]
+        }
+      },
+      {
+        "name": "Cotton Stem Weevil: Â PempheresÂ ( Pempherulus) affinis",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_4.html",
+        "symptoms": [
+          "Swellings on the stem just  above the ground level",
+          "Young plants are invariably  killed",
+          "Older plants that survive  lack vigor and strength, breaks at the nodes due to strong wind"
+        ],
+        "management": {
+          "management_practices": [
+            "ETL: 10% infestation",
+            "ETL: 10% infestation",
+            "Basal application of FYM 100 t/acre and 100 kg/acre of neem cake."
+          ]
+        }
+      },
+      {
+        "name": "Shoot weevil:Â Alcidodes affaber",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_5.html",
+        "symptoms": [
+          "Terminal shoots with galls",
+          "Bore hole surrounded by  raised margins",
+          "Identification of the pest - Weevil dark greyish brown  with pale cross bands on the elytra"
+        ],
+        "management": {
+          "management_practices": [
+            "Soil application of  Carbofuran 3G 30 kg may be done on 20 days after sowing and earthed up",
+            "Basal application of FYM 25  t/ha or 250 kg/ha of neem cake"
+          ]
+        }
+      },
+      {
+        "name": "Stem borer:Â Sphennoptera gossypii",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_6.html",
+        "symptoms": [
+          "Plants with drooping leaves",
+          "Wilting in patches",
+          "Identification of the pest - Dark brown jewel beetle"
+        ],
+        "management": {
+          "management_practices": [
+            "Soil application of  Carbofuran 3G 30 kg may be done on 20 days after sowing and earthed up",
+            "Basal application of FYM 25  t/ha or 250 kg/ha of neem cake"
+          ]
+        }
+      },
+      {
+        "name": "Â Leaf roller: Sylepta derogata",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_7.html",
+        "symptoms": [],
+        "management": {
+          "management_practices": [
+            "Collection and destruction of dried plant parts.",
+            "Hand picking and destruction of grown up caterpillars."
+          ]
+        }
+      },
+      {
+        "name": "Tobacco Cutworm: Spodoptera litura",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_8.html",
+        "symptoms": [
+          "Leaf skeletonisation by early instar larvae.",
+          "Complete defoliation by older larvae.",
+          "Young larva",
+          "Grown up larva",
+          "Destructive stage: Larva.",
+          "Egg  - Laid  in masses which appear golden brown",
+          "Larva- Pale greenish with dark  markings. Gregarious in the early stages",
+          "Pupa: Brown. Pupation in soil.",
+          "Adult : Forewings brown colour with wavy white marking. Hindwings white colour with a brown patch\nalong the margin. Adult longevity: 7-10 days."
+        ],
+        "management": {
+          "management_practices": [
+            "ETL :8 egg masses / 100 m row",
+            "Place light trap to monitor and kill the attracted adult moths.",
+            "Install sex pheromone trap at 5/acre to monitor the activity of the pest.",
+            "Grow castor along border and irrigation bunds.",
+            "Remove and destroy the egg masses in castor and cotton crops.",
+            "Remove and destroy the early stage larvae.",
+            "Hand pick and destroy the gown up caterpillars.",
+            "Spray any one of the following insecticides when pest population reaches ETL \n    Diflubenzuron 25%WP 120-140g/acre or  Chlorantraniliprole 18.5% SC @60 ml/acre or Spinetoram 11.7 % SC 168-188 ml/acre or Nuclear polyhedrosis virus at 6 x 1011 POB/ acre. Pupa"
+          ]
+        }
+      },
+      {
+        "name": "Ash weevils: Mylloecerus undecimpustulatus",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_9.html",
+        "symptoms": [
+          "Leaf margins notched",
+          "Wilting of plants in  patches",
+          "Plants come easily when  pulled",
+          "Roots eaten away by grubs",
+          "Identification of the pest",
+          "Grub - Small, white apodous grub",
+          "Mylloecerusundecimpustulatus - Greenish elytra  having dark lines",
+          "M. subfasciatus - Brownish weevil",
+          "M. viridanus - small light green weevil",
+          "M. discolor - brown weevil"
+        ],
+        "management": {
+          "management_practices": [
+            "Remove the affected  branches/plants and destroy",
+            "Spraying of quinalphos 1.0  l/ha or chlorpyriphos 1.0 l/ha"
+          ]
+        }
+      },
+      {
+        "name": "Leafhopper: Â Amrasca (Biguttula biguttula) devastans",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_10.html",
+        "symptoms": [
+          "Downward curling and reddening of leaves.",
+          "Under severe infestation turn brick red colour.",
+          "Growth retardation and death of plants.",
+          "Destructive Stage: Nymphs and adults.",
+          "Eggs: Small, delicate and translucent. Egg period: 5 to 15 days Nymph -Â Light green, translucent, wingless found between the veins of leaves on the under surface Adult -Â Green, wedge shaped leafhopper.",
+          "Nymph -Â Light green, translucent, wingless found between the veins of leaves on the under surface",
+          "Adult -Â Green, wedge shaped leafhopper."
+        ],
+        "management": {
+          "management_practices": [
+            "ETL : 50 nymphs or adults / 50 leaves",
+            "Cultivate of hairy (hirsute) varieties of cotton",
+            "Adopt synchronised sowing.",
+            "Treat seeds with Beauveria bassiana @ 10 g/kg.",
+            "Apply nitrogenous fertilizers judiciously.",
+            "Maintain weed free condition in field  .",
+            "Spray any one of the following insecticides when pest population reaches ETL: \n                    Imidacloprid 17.8% SL 40 â 50 ml/acre or  Azadirachtin 0.03%WSP or   Buprofezin 25%SC 400 ml/acre or  Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 40-50 ml/acre or               Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 40 g/acre."
+          ]
+        }
+      },
+      {
+        "name": "Cotton aphid:Â Aphis gossypii (Aphididae: Hemiptera)",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_11.html",
+        "symptoms": [
+          "Leaves are shiny with honeydew or darkened by sooty mould growing on the honeydew.",
+          "Crumpling and downward curling observed under severe attack.",
+          "Activity of ants on the aphid-infested plants is common.",
+          "Contamination of lint with honeydew and associated fungi leads to poor quality cotton.",
+          "Destructive stage: Nymphs and adults.",
+          "Reproduction by parthenogenesis and viviparity.",
+          "Nymphs: Small, yellowish or brownish in colour and mostly wingless. Nymphal period: 7-9 days.",
+          "Adults: Yellowish brown to black with black cornicles and yellowish green abdominal tip. Adult longevity: 12-20 days."
+        ],
+        "management": {
+          "management_practices": [
+            "ETL: 15% of infested plant",
+            "Avoid late sowing.",
+            "Treat seeds with Beauveria bassiana @ 10 g/kg.",
+            "Apply nitrogenous fertilizers judiciously.",
+            "Grow cowpea as intercrop or on the bunds to increase the natural enemy build up.",
+            "Spray any one of the following insecticides when pest population reaches ETL: \n                    Imidacloprid 17.8% SL 40 â 50 ml/acre or Azadirachtin 0.03% EC 1000 ml/acre or \n                    Buprofezin 25%SC 400 ml/acre or  Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 40-50 ml/acre or Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 40 g/acre"
+          ]
+        }
+      },
+      {
+        "name": "Thrips:Â Thrips tabaci",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_12.html",
+        "symptoms": [
+          "Leaf laceration under the under surface of leaves.",
+          "Silvery or brown necrotic spots of 3-5 mm.",
+          "Leaf wrinkling and upward curling.",
+          "Distorted leaves with white shiny patches.",
+          "Destructive stage: Nymphs and adults.",
+          "Eggs: Minute, kidney shaped laid in slits in leaf tissues. Egg period: 5 days.",
+          "Nymphs  - Very  minute, slender, yellowish and microscopic",
+          "Adult - Small, slender,  yellowish to brown with fringed wings"
+        ],
+        "management": {
+          "management_practices": [
+            "ETL : 50 nymphs or adults / 50  leaves",
+            "Avoid planting of cotton near onion fields to prevent the migration of thrips",
+            "Avoid late sowing.",
+            "Treat seeds with Beauveria bassiana @ 10 g/kg.",
+            "Apply nitrogenous fertilizers judiciously",
+            "Spray any one of the following insecticides when pest population reaches ETL: \n                    Imidacloprid 17.8% SL 40 â 50 ml/acre or  Buprofezin 25%SC 400 ml/acre or Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 40-50 ml/acre or Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 40 g/acre or Fipronil5% SC 600-800 ml/acre."
+          ]
+        }
+      },
+      {
+        "name": "Whitefly: Bemisia tabaci (Aleyrodidae: Hemiptera)",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_13.html",
+        "symptoms": [],
+        "management": {
+          "management_practices": [
+            "ETL: 5 - 10 /leaf",
+            "Avoid alternate cultivated host crops of the whitefly like brinjal, bhendi, tomato, tobacco and sunflower in the vicinity of cotton crop.",
+            "Removal and destruction of alternate weed hosts like Abutilon indicum and Solanum nigrum from the fields and neighbouring areas and maintaining field sanitation.",
+            "Adoption of crop rotation with non-preferred hosts such as sorghum, ragi, maize.",
+            "Timely sowing with recommended spacing, preferably wider spacing and judicious application of recommended dose of fertilizers, particularly nitrogenous and irrigation management is essential to arrest the excessive vegetative growth and pest build up.",
+            "Monitoring the activities of the adult white flies by setting up yellow sticky traps at 1 foot height above the plant canopy.",
+            "Spray any one of the following insecticides when pest population reaches ETL:",
+            "Imidacloprid 17.8% SL 40 â 50 ml/acre or Buprofezin 25%SC 400 ml/acre or Diafenthiuron 50%WP 240 g/acre or Thiacloprid 21.7%SC 200- 240ml/acre or Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 80 g/acre or Fipronil5% SC 600-800 ml/acre."
+          ]
+        }
+      },
+      {
+        "name": "Red Cotton Bug",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_14.html",
+        "symptoms": [
+          "Red stained lint and rotting bolls",
+          "Inner boll wall with warty growth or water soaked spots",
+          "Young bolls abort and turn dark brown",
+          "The bacterium Nematosporagossypii enters the site of injury and  stains the fibre",
+          "Identification of the pest",
+          "Nymphs and Adults - Reddish  bugs with white bands on the abdomen and black markings on the wings"
+        ],
+        "management": {
+          "management_practices": [
+            "Plough  the field to expose the eggs",
+            "Spray  phosphamidon 40 SL 600 ml/ha"
+          ]
+        }
+      },
+      {
+        "name": "Dusky  cotton bug: Oxycarenushyalinipennis",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_15.html",
+        "symptoms": [
+          "Sucks the sap from developing seeds in open bolls and stains the lint black",
+          "Seeds discolored and shrunken",
+          "Identification of the pest",
+          "Eggs - Cigar  shaped, white eggs in clusters of 2-10 within the half opened bolls, on the  bolls, flower or buds",
+          "Nymphs and adults -  Dusky, greyish brown bug, with pointed head and hyaline wings"
+        ],
+        "management": {
+          "management_practices": [
+            "Spray phosphamidon 40 SL 600 ml/ha"
+          ]
+        }
+      },
+      {
+        "name": "Cotton Mealybug: Phenacoccus solenopsisi and Papaya mealybug Paracoccus marginatus (Pseudococcidae: Hemiptera)",
+        "url": "https://agritech.tnau.ac.in/crop_protection/cotton/crop_prot_crop_insectpest _cotton_16.html",
+        "symptoms": [
+          "Vegetative phase exhibit symptoms of distorted, bushy shoots, crinkled and/or twisted bunchy leaves and stunted plants that dry completely in severe cases.",
+          "Late season infestations during reproductive crop stage result in reduced plant vigour and early crop senescence.",
+          "Honeydew secreted by the mealybug encourages development of black sooty mould which adversely affects photosynthetic activity.",
+          "Identification Characters and Biology",
+          "Destructive stage: Nymphs and adults.",
+          "Phenacoccus solenopsis is yellowish green in colour with short to medium sized waxy filaments with two short anal filaments and two dark strips on either side of the middle ridge of the body.",
+          "Paracoccus marginatus is yellowish and distinctly segmented. Flattened oval body long covered with mealy wax."
+        ],
+        "management": {
+          "management_practices": [
+            "Remove and destroy the infested plant parts.",
+            "Remove the alternate weeds hosts.",
+            "Release encyrtid parasitoids, Acerophagus papayae @ 100 per village against Paracoccus marginatus and Aenasiusbam bawaeli against Phenococcus solenopsis.",
+            "Use botanical insecticides like neem derivatives such as neem oil 2%, NSKE 5% and Fish oil rosin soap 25 g/lit. of water.",
+            "Spray any one of the insecticides: Flonicamid 50% WG 60 g/acre or Thiamethoxam 25% WG 80 g/acre."
+          ]
+        }
+      }
+    ]
+  }
+]

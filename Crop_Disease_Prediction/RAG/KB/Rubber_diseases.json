@@ -1,0 +1,110 @@
+[
+  {
+    "crop": "Rubber",
+    "diseases": [
+      {
+        "name": "Abnormal leaf fall: Phytophthora palmivora & P. nicotianae var. parasitica",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_1.html",
+        "symptoms": [
+          "It occurs during June â August, while general leaf fall occurs during December.",
+          "On leaves dull grey, circular spots appear which enlarge and become irregular.",
+          "The petiole exhibit sunken spot. Affected fruits rot. Leaves shed prematurely either green or after turning coppery red.",
+          "The affected leaf form a thick carpet of rotting foliage which emits bad smell."
+        ],
+        "management": {
+          "management_practices": [
+            "Prophylactic sprays prior to onset of south west monsoon with Bordeaux mixture 1%. Addition of ZnSo4 @ 0.2% improves the efficacy."
+          ]
+        }
+      },
+      {
+        "name": "Birds eye spot: Drechslera heveae (Helminthosporium heveae)",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_2.html",
+        "symptoms": [
+          "Circular spots with grey centre and with brown border occur in large number in nursery or on young plants in the field."
+        ],
+        "management": {
+          "management_practices": [
+            "Spray with 1% Bordeaux mixture"
+          ]
+        }
+      },
+      {
+        "name": "Corynespora leaf spot: Corynespora cossicola",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_3.html",
+        "symptoms": [
+          "Circular spots with brown or papery centre and with a dark brown ring appear on the young leaves.",
+          "An yellow hallo develop around the ring. Short holes occur. Affected leaves dries up."
+        ],
+        "management": {
+          "management_practices": [
+            "Spray with 1% Bordeaux mixture"
+          ]
+        }
+      },
+      {
+        "name": "Pink disease: Corticium salminicolor",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_4.html",
+        "symptoms": [
+          "Prevalent in wet areas. Young twigs and branches are mostly affected.",
+          "The fungal growth encircles the stem, penetrates the bark and cortical tissues which eventually decay.",
+          "The bark splits and peals off. If the infection in not recognized early the tree  dies after the rainy season."
+        ],
+        "management": {
+          "management_practices": [
+            "Affected parts should be pasted with  Bordeaux paste or painting tar.",
+            "Copper fungicides should not be used in rubber because they will  contaminate the latex."
+          ]
+        }
+      },
+      {
+        "name": "Powdery mildew: O idium heveae",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_5.html",
+        "symptoms": [
+          "White powdery fungal growth appears on young leaves and also on matured leaves.",
+          "Infected leaves curl, crinkle, role inwards and fall off leaving the petiole attached to the tree giving a broom stick appearance.",
+          "The infected flowers and tender fruits shed."
+        ],
+        "management": {
+          "management_practices": [
+            "Spary  sulphur 3-5 times  at 15 days interval.",
+            "Carbendazim 0.1% or Tridemorph 1.5% dusting alternated with sulphur dust 70%",
+            "Carbendazim +wettable sulphur and microsul (52% EC) is also effective."
+          ]
+        }
+      },
+      {
+        "name": "Brown root diseases: Fomes noxius",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_6.html",
+        "symptoms": [
+          "The affected roots are encrusted with mass of soil and small stones held by net work of mycelium.",
+          "The affected tap root becomes rotted and the entire tree is killed."
+        ],
+        "management": {
+          "management_practices": [
+            "Removal and destruction of the infected trees.",
+            "Apply lime @ 2.5t/ha",
+            "In the area of dead tree apply additional dose of lime @ 25 kg/ dead tree.",
+            "Wash the partially affected root with Emisan or Aretan 0.1%."
+          ]
+        }
+      },
+      {
+        "name": "Colletotrichum Leaf Disease: Colletotrichum acutatum, C .gloeosporioides",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rubber_diseases_7.html",
+        "symptoms": [
+          "Infects tender leaves, mostly at the leaf tip region.",
+          "Spots are small, brown in colour and is sorrounded by an yellow hallo.",
+          "Numerous spots coalesce and dry up leading to defoliation.",
+          "The infected leaves often crinkle and become distorted before shedding."
+        ],
+        "management": {
+          "management_practices": [
+            "Spraying with Bordeaux mixture 1%, copper oxychloride 0.125% (Fytdan 2.5 g/l) mancozeb 0.2% (Dithane/ Indofil M 45 2.66 g/l) or carbendazim 0.05% (Bavastin 1 g/l) at 10 - 15 days intervals is effective.",
+            "Spraying with Bordeaux mixture 1%, copper oxychloride 0.125% (Fytdan 2.5 g/l) mancozeb 0.2% (Dithane/ Indofil M 45 2.66 g/l) or carbendazim 0.05% (Bavastin 1 g/l) at 10 - 15 days intervals is effective."
+          ]
+        }
+      }
+    ]
+  }
+]

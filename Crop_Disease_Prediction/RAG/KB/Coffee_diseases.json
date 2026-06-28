@@ -1,0 +1,104 @@
+[
+  {
+    "crop": "Coffee",
+    "diseases": [
+      {
+        "name": "Rust: Hemileia vastatrix",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_1.html",
+        "symptoms": [
+          "It mostly affects  leaves or some time leaves and tender shoots. In earlier stage, 2- 3m.m size yellow spots develop on the lower surface of leaves.",
+          "Rust lesions develop as orange yellow spots on lower surface of leaves. Thousasnds of small rust appear on the leaf. The upper surface of the leaves become yellow to brown.",
+          "At later stages, yellow rusty appearances are found on the entire undersurface of the leaf. The orange yellow spots are followed by black spots followed by necrosis.",
+          "Infected leaves defoliate and branch remains without any leaves. The plants remain stunted with reduced yield. Reduced yileds and reduced profit are obtained in these kind of infected crops."
+        ],
+        "management": {
+          "management_practices": [
+            "Collection and destruction of diseased leaves. Grow S 238, S 395 resistant varieties.",
+            "Spraying of Bordeaux mixture 0.5% before flowering, during rainy and after rainy seasons in the month of may, august- september and october respectively will prevent from the diseases."
+          ]
+        }
+      },
+      {
+        "name": "Brown leaf spot: Cercospora coffeicola",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_2.html",
+        "symptoms": [
+          "Brown spots with grey centre and brown margin surrounded by yellow hallow is developed.",
+          "The lesion spreads to major leaf area. On berrios dark blotches are developed shrink and drops."
+        ],
+        "management": {
+          "management_practices": [
+            "Spraying with Bordeaux mixture 0.5%."
+          ]
+        }
+      },
+      {
+        "name": "Damping off / Collar rot: Rhizocotonia solani",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_3.html",
+        "symptoms": [
+          "It caused pre emergence damping off and post emergence damping off.",
+          "In post emergence damping off collar region near soil level is infected leading the rotting of tissue and death of seedlings."
+        ],
+        "management": {
+          "management_practices": [
+            "Soil drenching with Copper oxychloride 0.25%."
+          ]
+        }
+      },
+      {
+        "name": "Die back or Anthranos: Collectorichum coffeasum",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_4.html",
+        "symptoms": [
+          "On leaves circular to grayish spots of 2-3 m in dia.",
+          "On berries small dark coloured sunken spots are farmed. Beans become brown. Die back also occurs."
+        ],
+        "management": {
+          "management_practices": [
+            "Spraying Mancozeb 0.25%"
+          ]
+        }
+      },
+      {
+        "name": "Black rot or koleroga: Corticium salmonicolor",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_5.html",
+        "symptoms": [
+          "The most important symptom is dark brown or black decaying leaves, twings and bessies from which black rot is derived.",
+          "The leaves hang sown by a strong fungal stranchs â myedial threads can be seen on twoigs and petirles.",
+          "Sclerotia can be seen all over the affected areas. Defoliation and drop occurs."
+        ],
+        "management": {
+          "management_practices": [
+            "Removal of diseased portions",
+            "Spraying with Bordeaux mixture 1%"
+          ]
+        }
+      },
+      {
+        "name": "Root rot (fomes spp., fusarium spp.)",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_6.html",
+        "symptoms": [
+          "Stump or brown root-rots: affected bushes show a gradual yellowing of leaves and defoliation and death. Affected roots are brittle and show dark brown wavy lines of the fungus.",
+          "Fusarial root rot or wilt: a sudded wilting and yellowing of leaves leading to defoliation and death of aerial parts. Roots turn brown to pinkish."
+        ],
+        "management": {
+          "management_practices": [
+            "Burn the plants at site, isolate affected patches by digging deep trenches, ring the bark and poison the shade trees while thinning.",
+            "Remove the affected plants and treat theÂ soil at 1kg lime per plant to raise the soil pH.",
+            "Treat theÂ soil around the affected area with PDCB or brassicol at 0.4%. Maintain the vigour of plants."
+          ]
+        }
+      },
+      {
+        "name": "Berry blotch: Cercospora coffeicola",
+        "url": "https://agritech.tnau.ac.in/crop_protection/coffee_diseases_7.html",
+        "symptoms": [
+          "Neorotic spots on the exposed surface of green berries enlarge and cover the major portion. fruit skin shrivels and sticks fast."
+        ],
+        "management": {
+          "management_practices": [
+            "Spray 1% Bordeaux mixture during june and late august, maintain medium shade overhead."
+          ]
+        }
+      }
+    ]
+  }
+]

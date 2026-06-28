@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌱 Crop Disease Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-green-50 min-h-screen p-4">
+
+<div class="max-w-4xl mx-auto">
+
+    <!-- Header -->
+    <header class="text-center mb-6">
+        <h1 class="text-5xl font-extrabold text-green-700 animate-pulse">🌿 Crop Disease Dashboard</h1>
+        <p class="text-gray-700 mt-2">Upload an image to predict disease and get advice</p>
+    </header>
+
+    <!-- Tabs -->
+    <div class="flex justify-center mb-6 space-x-4">
+        <button class="tabBtn px-4 py-2 rounded-lg bg-green-600 text-white font-semibold" data-tab="predictTab">Predict</button>
+        <button class="tabBtn px-4 py-2 rounded-lg bg-gray-200 text-gray-800 font-semibold" data-tab="adviceTab">Advice</button>
+        <button class="tabBtn px-4 py-2 rounded-lg bg-gray-200 text-gray-800 font-semibold" data-tab="historyTab">History</button>
+    </div>
+
+    <!-- Tab Content -->
+    <div id="predictTab" class="tabContent">
+        <!-- Upload Section -->
+        <div class="mb-4">
+            <input id="fileInput" type="file" accept="image/*" class="block w-full text-sm text-gray-700 file:mr-4 file:py-2 file:px-4
+            file:rounded-full file:border-0 file:text-sm file:font-semibold
+            file:bg-green-200 file:text-green-700 hover:file:bg-green-300"/>
+            <img id="preview" class="mt-4 w-full h-64 object-contain rounded-lg hidden border-2 border-green-200" alt="Preview">
+        </div>
+        <button id="predictBtn" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg transition duration-300">
+            Predict Disease
+        </button>
+
+        <!-- Prediction Result -->
+        <div id="predictionResult" class="mt-6 hidden">
+            <div class="bg-green-100 rounded-xl p-4 shadow-inner animate-fadeIn">
+                <h2 class="text-2xl font-bold text-green-800 mb-2">Prediction:</h2>
+                <p id="diseaseName" class="text-lg font-semibold"></p>
+                <p id="confidence" class="text-gray-700 mb-4"></p>
+            </div>
+        </div>
+    </div>
+
+    <div id="adviceTab" class="tabContent hidden">
+        <div id="adviceResult" class="bg-yellow-100 p-4 rounded-xl shadow-inner hidden">
+            <h3 class="font-bold text-yellow-900 mb-2">Advice:</h3>
+            <p id="adviceText" class="text-gray-800 mb-2"></p>
+            <h4 class="font-semibold text-yellow-900 mt-2">Reference Docs:</h4>
+            <ul id="docsList" class="list-disc ml-5 text-gray-700"></ul>
+        </div>
+        <button id="adviceBtn" class="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded-lg mt-4 transition duration-300">
+            Get Advice
+        </button>
+    </div>
+
+    <div id="historyTab" class="tabContent hidden">
+        <h2 class="text-2xl font-bold text-green-800 mb-4">Prediction History</h2>
+        <ul id="historyList" class="space-y-2"></ul>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

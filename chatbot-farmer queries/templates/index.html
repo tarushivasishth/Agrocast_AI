@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>FarmAssist — Farmer Chatbot</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>FarmAssist</h1>
+      <p class="subtitle">Ask about crops, pests, soil, irrigation — simple, practical answers.</p>
+    </header>
+
+    <main class="chat-area" id="chatArea">
+      <!-- messages inserted by JS -->
+    </main>
+
+    <form id="chatForm" class="chat-form" autocomplete="off">
+      <input id="messageInput" type="text" placeholder="Describe your crop and problem (e.g., 'tomato leaves with spots')" />
+      <button type="submit">Send</button>
+      <button id="resetBtn" type="button" class="secondary">Reset</button>
+    </form>
+
+    <footer class="footer">
+      <small>Local advice may vary — consult your local agricultural extension service for region-specific recommendations.</small>
+    </footer>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

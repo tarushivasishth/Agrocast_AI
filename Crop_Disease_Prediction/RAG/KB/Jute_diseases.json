@@ -1,0 +1,43 @@
+[
+  {
+    "crop": "Jute",
+    "diseases": [
+      {
+        "name": "Cescospora Leaf Spot",
+        "url": "https://agritech.tnau.ac.in/crop_protection/black_gram_disease/cercosporal_leaf_spot.html#:~:text=Spray%20Carbendazim%20500%20g/ha%20or%20Mancozeb%201000g,of%20the%20disease%20and%2010%20days%20later.",
+        "symptoms": [
+          "Spots produced are small, numerous in number with pale brown centre and reddish brown margin. Similar spots also occur on branches and pods.",
+          "Under favourable environmental conditions, severe leaf spotting and defoliation occurs at the time of flowering and pod formation.",
+          "The fungus is seed-borne and also survives on plant debris in the soil.",
+          "High humidity favours disease development."
+        ],
+        "management": {
+          "management_practices": [
+            "Spray Carbendazim 500 g/ha or Mancozeb 1000g /ha at initiation of the disease and 10 days later.",
+            "Water at the base of the plants using drip irrigation or soaker hoses to keep leaves dry, as wet conditions favor fungal growth."
+          ]
+        }
+      },
+      {
+        "name": "Golden Mosaic",
+        "url": "http://www.agriwaysjournal.com/wp-content/uploads/journals/volume1.1/AN%20OVERVIEW%20ON%20JUTE%20LEAF%20YELLOW%20MOSAIC%20DISEASE%20AND%20ITS%20INTEGRATED%20MANAGEMENT.pdf",
+        "symptoms": [
+          "small yellow flakes on the lamina during the initial infection stage which gradually increases in size to form green and chlorotic intermingled patches producing a yellow and light yellow patches and mosaic appearance.",
+          "Leaves may be reduced in size and may be curled.",
+          "plants are stunted.",
+          "Lower leaves are subjected to “mosaic burn” especially during periods of hot and dry weather. "
+        ],
+        "management": {
+          "management_practices": [
+            "Sanitation is one of the common control methods for which includes removing the infected plants and weeds from field.",
+            "Rouging of young infected plants appears to reduce the amount of secondary spread within a field when incidences are low in the beginning of the season.",
+            "Crop rotation should also be employed to avoid infected soil/seed beds for at least two years.",
+            "Seed treatment with imidacloprid 70% WS @ 1g/kg of jute seeds and use of neem cake @ 250 kg/ha before sowing of the crop",
+            "foliar application with cypermethrin, deltamethrin and dimethoate 30 EC at 50 DAS proved quite effective in reducing the incidence of B. tabaci and thus also the virus infection.",
+            "Yellow sticky traps can be used to detect and monitor whitefly activity."
+          ]
+        }
+      }
+    ]
+  }
+]

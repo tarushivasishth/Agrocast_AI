@@ -1,0 +1,150 @@
+[
+  {
+    "crop": "Potato",
+    "diseases": [
+      {
+        "name": "Greasy Cutworm/ Black cut worm: Agrotis ipsilon",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_1.html",
+        "symptoms": [
+          "Young larvae feed on the epidermis of the leaves",
+          "Older larvae come out at night and feed young plants by cutting their stems",
+          "They also damage the tubers by eating away part of them",
+          "Eggs: Creamy white, dome-shaped eggs, laid singly on lower surface of the leaves",
+          "Larvae: Newly emerged young larva is yellow in colour. The full-grown larva is dark or dark brown with a plump and greasy body.",
+          "Pupa: Dark brown pupae are found in earthen cells lying underground in the potato fields",
+          "Adult: Dark with some grayish patches on the back and dark streaks on the forewings."
+        ],
+        "management": {
+          "management_practices": [
+            "Flood the infested fields",
+            "Handpick and destroy the larvae in morning and evening hours on cracks and crevices in the field",
+            "Plough the soil during summer months to expose larvae and pupae to avian predators",
+            "Set up light trap @1/ha",
+            "Pheromone traps @12/ha to attract male moths",
+            "Spray insecticides like chlorpyriphos 20 EC @1 lit/ha or neem oil @ 3%"
+          ]
+        }
+      },
+      {
+        "name": "Potato tuber moth: Phthorimaea operculella",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_2.html",
+        "symptoms": [
+          "It is a pest of field and storage",
+          "Larva tunnels into foliage, stem and tubers",
+          "Galleries are formed near tuber eyes",
+          "Egg: Laid singly on the ventral surface of foliage and exposed tubers",
+          "Larva: Yellow coloured caterpillar with dark brown head",
+          "Pupa: Pupation occurs within a cocoon among the trash, clods of the earth in the field",
+          "Adult: Small narrow winged moth, greyish brown forewings and hind wings are dirty white"
+        ],
+        "management": {
+          "management_practices": [
+            "Select healthy tubers",
+            "Avoid shallow planting of tubers. Plant the tubers to a depth at 10 - 15 cm deep",
+            "Install pheromone traps at 15/ha.",
+            "Collect and destroy all the infested tubers from the field",
+            "Do not leave the harvested tubers in the field overnight",
+            "Adopt intercropping with chilies, onion or peas",
+            "Do earthing up at 60 days after planting to avoid female moths laying eggs on the exposed tubers",
+            "Cover the upper surface of potato tubers with the branches of Lantana and Eupatorium to repel the ovipositing moth in the godown",
+            "Release egg larval parasitoid: Chelonus blackburnii @30,000/ha twice at 40 and 70 day after planting",
+            "Spray NSKE @5% or quinalphos 25 EC @2ml/lit of water to manage foliar damage",
+            "Spray Bacillus thuringiensis @1 kg/ha at 10 days interval"
+          ]
+        }
+      },
+      {
+        "name": "White grubs: Holotrichia sp.",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_3.html",
+        "symptoms": [
+          "Grubs feed on roots and tubers",
+          "Grubs feed voraciously during night time",
+          "Larva : “C” shaped grub",
+          "Adult: Brown beetle with pale prothorax"
+        ],
+        "management": {
+          "management_practices": [
+            "Summer ploughing to expose pupae",
+            "Dust Quinalphos 5% @25 kg/ha at 10 days after first summer rain",
+            "Set up light trap @1/ha between 7 PM and 9 PM",
+            "Handpick adult beetles in the morning"
+          ]
+        }
+      },
+      {
+        "name": "Tobacco Caterpillar: Spodoptera litura",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_4.html",
+        "symptoms": [
+          "The young larvae first feed gregariously and scrape the leaves",
+          "Older larvae spread out and may completely devour the leaves resulting in poor growth of plants",
+          "Egg: Masses appear golden brown",
+          "Larva: Pale greenish with dark markings",
+          "Adult: Forewings are brown in colour with wavy white marking, hind wings are white in colour with a brown patch along the      margin"
+        ],
+        "management": {
+          "management_practices": [
+            "Plough the soil to expose and kill the pupae",
+            "Grow castor along border and irrigation channel as trap crop",
+            "Flood the field to drive out the hibernating larvae",
+            "Set up light trap @1/ha",
+            "Pheromone traps (Pherodin SL) @ 15/ ha to attract male moths",
+            "Collect and destroy egg masses in castor and tomato",
+            "Hand pick grown up larvae and kill them",
+            "Spray Sl NPV @ 1.5X1012 POBs/ha + 2.5 Kg crude sugar + 0.1 % teepol",
+            "Rice bran 5 Kg + Molasses or Brown sugar 500g + Carbaryl 50 WP 500g+ 3lit of water/ha",
+            "Mix the ingredients well - Kept around the field in the evening hours",
+            "Spray chlorpyriphos 20 EC 2 lit/ha or dichlorovos 76 WSC 1 lit/ha"
+          ]
+        }
+      },
+      {
+        "name": "Green Leaf Hopper: Empoasca kerri",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_5.html",
+        "symptoms": [
+          "Tips of affected leaves become brown, turn upwards and get dried up",
+          "Egg: Elongated yellow-white egg is deposited in leaf vein.",
+          "Nymph: Pale-green, wedge shaped, winged pads extend up to the fifth abdominal segment",
+          "Adult: It is a wedge shaped and pale green insect"
+        ],
+        "management": {
+          "management_practices": [
+            "Spray dimethoate 30 EC or phosphomidon (Dimecron) 2ml/lit"
+          ]
+        }
+      },
+      {
+        "name": "Green peach aphid: Myzus persicae",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_6.html",
+        "symptoms": [
+          "Aphids suck sap of plants, as a result of which leaves turn pale and dry up.",
+          "This pest also transmits various viral to potato plants",
+          "It resembles wingless adult but the size is small."
+        ],
+        "management": {
+          "management_practices": [
+            "Spray dimethoate 0.3%"
+          ]
+        }
+      },
+      {
+        "name": "Whitefly: Bemisia tabaci",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato/potato_7.html",
+        "symptoms": [
+          "Nymphs suck sap from the leaves and lower their vitality",
+          "Yellowing and curling of leaf",
+          "Sooty mould develops on affected leaves",
+          "Egg: Smooth, sub elliptical, stalked at broader basal end with light yellow colour when freshly laid, turn dark brown later on",
+          "Nymph: Pale-yellow in colour",
+          "Adult: It is small winged insect having light yellow colour. Wings are pure white with prominent long legs."
+        ],
+        "management": {
+          "management_practices": [
+            "Well timed irrigation",
+            "Avoid common solanaceous crops in the endemic areas",
+            "Spray dimethoate 0.3%"
+          ]
+        }
+      }
+    ]
+  }
+]

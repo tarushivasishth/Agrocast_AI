@@ -1,0 +1,137 @@
+[
+  {
+    "crop": "Tea",
+    "diseases": [
+      {
+        "name": "Algal leaf spot: Cephaleuros virescens",
+        "url": "https://agritech.tnau.ac.in/crop_protection/tea_diseases_1.html",
+        "symptoms": [
+          "Leaves develop lesions that are roughly circular, raised and purple to reddish-brown.",
+          "Life Cycle",
+          "The alga produces microscopic, rust-colored, spore-like bodies on the surface of the leaf spots, giving them a reddish tinge.",
+          "The “spores” are dispersed by wind or rain.Â",
+          "The alga may spread from leaves to branches and fruit.",
+          "Poor soil drainage, imbalanced nutrition, and exposure to relatively high temperature and humidity predispose tea plants to infection by algal leaf spot, so it is important to strengthen the plant through proper cultivation and fertilization.",
+          "Most algal spots develop on the upper leaf surface.",
+          "Older infections become greenish-gray and look like lichen. Cephaleuros usually does not harm the plant."
+        ],
+        "management": {
+          "management_practices": [
+            "Avoid plant stress.",
+            "Avoid poorly drained sites.",
+            "Promote good air circulation in the plant canopy to reduce humidity and duration of leaf wetness.",
+            "Removal of infected portions by spraying of bordeaux mixture",
+            "Destruction of affected plant portions",
+            "Improving the nutrient status of the soil by application of nitrogen, phosphorus and potassium",
+            "Content validator: Dr. M. Deivamani, Assistant Professor, Horticulture Research Station, Yercaud-636602."
+          ]
+        }
+      },
+      {
+        "name": "Brown blight, grey blight: Colletotrichum sp., Pestalotiopsis sp.",
+        "url": "https://agritech.tnau.ac.in/crop_protection/tea_diseases_2.html",
+        "symptoms": [
+          "Small, oval, pale yellow-green spots first appear on young leaves.",
+          "Often the spots are surrounded by a narrow, yellow zone.",
+          "As the spots grow and turn brown or gray, concentric rings with scattered, tiny black dots become visible and eventually the dried tissue falls, leading to defoliation.",
+          "Leaves of any age can be affected.",
+          "Life Cycle",
+          "The tiny, black spots on the lesions contain the fungal spores.",
+          "Rain splash transports the spores from one plant or site of infection to another.",
+          "If the spores land on a leaf, they germinate to start a new leaf spot or a latent infection."
+        ],
+        "management": {
+          "management_practices": [
+            "Avoid plant stress.",
+            "Grow tea bushes with adequate spacing to permit air to circulate and reduce humidity and the duration of leaf wetness.",
+            "Spray Copper Oxy Chloride or Bordeaux mixture 0.1% during winter season and Summer season",
+            "Content validator: Dr. M. Deivamani, Assistant Professor, Horticulture Research Station, Yercaud-636602."
+          ]
+        }
+      },
+      {
+        "name": "Blister blight: Exobasidium vexans",
+        "url": "https://agritech.tnau.ac.in/crop_protection/tea_diseases_3.html",
+        "symptoms": [
+          "Small, pinhole-size spots are initially seen on young leaves less than a month old.",
+          "As the leaves develop, the spots become transparent, larger, and light brown.",
+          "After about 7 days, the lower leaf surface develops blister-like symptoms, with dark green, water-soaked zones surrounding the blisters.",
+          "Following release of the fungal spores, the blister becomes white and velvety.",
+          "Subsequently the blister turns brown, and young infected stems become bent and distorted and may break off or die.",
+          "Life cycle",
+          "The disease cycle repeats continuously during favorable(wet) conditions, and the spores are readily dispersed by wind.",
+          "Spores that land on a leaf with adequate moisture will germinate and infect it, producing visible symptoms within 10 days.",
+          "The fungus can directly penetrate the leaf tissue.",
+          "The basidiospores have a low survival rate under conditions of drought or bright sunlight.",
+          "The life cycle of the fungus is 3â4 weeks."
+        ],
+        "management": {
+          "management_practices": [
+            "Removal of affected leaves and shoots by pruning and destruction of the same have been recommended.",
+            "Spraying of Bordeaux mixture or Copper Oxy Chloride 0.1%",
+            "A mixture of 210g of Copper oxy Chloride + 210g of nickel chloride per ha sprayed at 5 days interval from June to September and October to November",
+            "Spray Tridemorph at 340 and 560 ml/ha is satisfactory under mild and moderate rainfall conditions",
+            "Content validator: Dr. M. Deivamani, Assistant Professor, Horticulture Research Station, Yercaud-636602."
+          ]
+        }
+      },
+      {
+        "name": "Horse hair blight: Marasmius crinisequi",
+        "url": "https://agritech.tnau.ac.in/crop_protection/tea_diseases_4.html",
+        "symptoms": [
+          "Black fungal threads resembling horse hair are attached to upper branches and twigs by small brown discs.",
+          "The fungus penetrates and infects the twigs from the discs and produces volatile substances that cause rapid leaf drop.",
+          "Life cycle",
+          "This pathogen is spread from infected twigs to healthy twigs by extending its hair-like threads."
+        ],
+        "management": {
+          "management_practices": [
+            "Remove a and destroy all crop debris from around plants",
+            "Prune out infected or dead branches from the plant canopy",
+            "Content validator: Dr. M. Deivamani, Assistant Professor, Horticulture Research Station, Yercaud-636602."
+          ]
+        }
+      },
+      {
+        "name": "Twig dieback, stem canker: Macrophoma theicola",
+        "url": "https://agritech.tnau.ac.in/crop_protection/tea_diseases_5.html",
+        "symptoms": [
+          "The first symptoms include browning and drooping of affected leaves.",
+          "As the disease spreads into the shoots, they become dry and die.",
+          "The entire branch can die from the tip downward.",
+          "Dying branches often have cankersâshallow, slowly spreading lesions surrounded by a thick area of bark.",
+          "Life cycle",
+          "The fungus produces spores on small, pear-shaped pycnidia on dead branches.",
+          "Spores are spread when splashed by rain and can survive for several weeks on pruned branches left in the field.",
+          "The fungus usually requires wounded plant tissue to gain entry and initiate infection."
+        ],
+        "management": {
+          "management_practices": [
+            "Plant in well draining, acidic soils.",
+            "Remove diseased twigs by cutting several inches below cankered areas and disinfecting them.",
+            "Spray appropriate protective fungicides during periods of wet weather or natural leaf drop to protect leaf scars from infection",
+            "Content validator: Dr. M. Deivamani, Assistant Professor, Horticulture Research Station, Yercaud-636602."
+          ]
+        }
+      },
+      {
+        "name": "Black root rot",
+        "url": "https://agritech.tnau.ac.in/crop_protection/tea_diseases_6.html",
+        "symptoms": [
+          "The fungus originates from the dead heaped leaves of 5 â 7.5 above the soil level. From there if spreads to roots region of tea bushes.",
+          "When bark is removed star like growth of mycelium can be seen.",
+          "At the surface of the soil the mycelium surrounds the stem and kills the bank for the length of 7.5 cm to 10.0 cm.",
+          "A swollen ring of tissue is formed round the stem above the dead patch."
+        ],
+        "management": {
+          "management_practices": [
+            "Removal and destruction of infected plant.",
+            "Clean cultivation with out fallen leaves",
+            "Dig a drench around the infected bush to provide sunlight in the drench which prevent the spread of mycelium.",
+            "Content validator: Dr. M. Deivamani, Assistant Professor, Horticulture Research Station, Yercaud-636602."
+          ]
+        }
+      }
+    ]
+  }
+]

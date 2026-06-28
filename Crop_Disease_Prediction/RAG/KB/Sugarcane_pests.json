@@ -1,0 +1,272 @@
+[
+  {
+    "crop": "Sugarcane",
+    "diseases": [
+      {
+        "name": "Early shoot borer: Chilo infuscatellus snellen",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_1.html",
+        "symptoms": [
+          "Dead heart shows in 1-3 months old crop, which can be easily pulled out.",
+          "Caterpillar bores into the central shoot and feeds on the internal tissue cause Dead heart.",
+          "Rotten portion of the straw coloured shoot emits an offensive odour.",
+          "A number of bore holes at the base of the shoot just above the ground level.",
+          "Egg: Flat scale like eggs are laid in 3-5 rows on the lower surface of leaves in masses of 4-100. The masses are slightly      overlapping like tiles.",
+          "Larva: Larva is dirty white with five dark violet longitudinal stripes and dark brown head.",
+          "Pupa: Pupation takes within the tunnel. Caterpillar before pupating makes a large exit hole in the stem and blocks the opening with silken discs.",
+          "Adult: Pale greyish brown moth with black dots near the coastal margin of the forewings and with white hind wings."
+        ],
+        "management": {
+          "management_practices": [
+            "ETL : 15% dead heart.",
+            "Use resistant varieties like CO 312, CO 421, CO 661, CO 917 and CO 853",
+            "Early planting during December â January escapes the early shoot borer incidence.",
+            "Sugarcane intercropped with Daincha recorded the lowest early shoot borer incidence.",
+            "Trash mulching along the ridges to a thickness of 10-15 cm 3 days after planting.",
+            "Ensure adequate moisture to bring down the soil temperature and increase humidity (unfavourable condition for the multiplication of early shoot borer).",
+            "Partial earthing up on 45 days after planting reduces the incidence.",
+            "Remove and destroy dead hearts.",
+            "Install pheromone traps @ 10Nos./ha for surveillance and monitoring, change the septa/lure once in 30 days.",
+            "Apply granulosis virus 1.5 x 13 5 IBS/ha (750 diseased larvae / ha)along with teepol twice on 35 and 50 DAP.",
+            "Release 125 gravid females of Sturmiopsis       inferens a tachinid parasite per ac.",
+            "Apply any one of the following insecticides if the pest crosses ETL.",
+            "Carboryl + Sevidol 4% G 12.5 kg, Carbofuron 3G 33kg (Soil application). The granular application should be immediately       followed by irrigation.",
+            "Chlorpyriphos 1000 ml a sticker like Teepol (250 ml / 500 l of water) can also be added to make the solution stick on       to the surface of the crop and it is preferable to use high volume sprayer to be most effective."
+          ]
+        }
+      },
+      {
+        "name": "Internode Borer: Chilo sacchariphagus indicus",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_2.html",
+        "symptoms": [
+          "Caterpillars attack sugarcane plants after 3 months of planting.",
+          "Internodes constricted and shortened, with a number of boreholes",
+          "Boreholes are plugged with fresh excreta in the nodal region.",
+          "Frass materials are present on the affected portion.",
+          "Egg: Scale like white eggs are laid by female moths in batches of 9-11, near the midribs, on leaf sheaths or      on stem.",
+          "Larva: White larva with four violet longitudinal stripes and light brown head.",
+          "Pupa: Pupation takes place in semi-dried sheath. Pupal period 7-10 days.",
+          "Adult: Straw coloured with a dark spot on each of the fore wings."
+        ],
+        "management": {
+          "management_practices": [
+            "Use resistant varieties like CO 975,COJ 46 and CO 7304.",
+            "Select pest free setts for planting.",
+            "Collect and destroy the eggs periodically.",
+            "Detrash the crop on 150th and 210th day of planting. Detrashing dislodge the pupae that      remain in the leaf sheath.",
+            "Install pheromone traps @ 10Nos. /ha for surveillance and monitoring, change the septa/lure once in      45 days.",
+            "Release egg parasitoid, Trichogramma chilonis at the rate of @ 2.5 cc / release / ha. Six release at fortnightly intervals starting from 4th month onwards.",
+            "Avoid the use of excessive nitrogenous fertilizers."
+          ]
+        }
+      },
+      {
+        "name": "Top Shoot Borer: Scirpophaga excerptalis",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_3.html",
+        "symptoms": [
+          "Caterpillars are mainly found in the apical portion of canes, boring through the growing point and down the upper joints until it reaches the sappy portion of the stem.",
+          "Dead heart in grown up canes, which cannot be easily pulled.",
+          "Larva bore into unfolded leaves and shows parallel row of shot holes in the emerging leaves.",
+          "Bore holes at the top of the shoot and shows bunchy top appearance.",
+          "Egg: Eggs are laid on the lower surface of top leaves in clusters particularly near midribs. The clusters      are covered with buff coloured hairs.",
+          "Larva: Smooth, white or cream coloured with a red coloured mid dorsal line and yellow head.",
+          "Pupa: Pupation takes place within the larval tunnel in a chamber with an exit hole constructed by the      caterpillar.",
+          "Adult: White Coloured moth (with a buff orange coloured anal tuft of hairs in female)"
+        ],
+        "management": {
+          "management_practices": [
+            "Use resistant variety CO 419, CO 745 and CO 6516 and tolerant varieties Co 859, Co 1158 and Co 7224.",
+            "Small earthing up followed by trash mulching",
+            "Do not undertake maize, sorghum as intercrops",
+            "Prefer paired row system for planting",
+            "Remove the dead heart plants and destroy them",
+            "Collect and destroy the egg masses.",
+            "Collection of egg masses on campaign basis once in 4 days initiating the collection from the day of moth emergence",
+            "Release Ichneumonid parasitized Gambroides (Isotima) javensis @ 100 pairs / ha as prepupal parasitoid.",
+            "Selective destruction of unparasitized eggs by placing the egg masses in 30 mesh nylon bags that permit escape of adult parasitoids while containg the neonate larvae hatching from unparasitized eggs.",
+            "Application of Carbofuran 3G 1 kg a.i/ha or Thimet 10G 3 kg a.i/ha ten days before the commencement of 3rd brood in sub tropical india.",
+            "Application is done by opening a small furrow near the root zone, placing the granule followed by a light irrigation"
+          ]
+        }
+      },
+      {
+        "name": "Whiteflies: Aleurolobus barodensis",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_4.html",
+        "symptoms": [
+          "Yellowing of leaves and later it shows pale in colour",
+          "Leaf turns pinkish or purple and later gradually dry.",
+          "Infested leaves look white and black dots.",
+          "In severe cases it look like fiery appearance",
+          "It shows very slow in growth of plant",
+          "Egg: Females lay eggs in a line near the midrib or any where on the lower surface of the leaves. Eggs are yellowish with a small curved stalk. Colour changes to black about two hours after the eggs are laid.",
+          "Nymph & Pupa: Neonate nymphs are pale yellow in colour, flat and oval in shape, later turn shiny black. Its body is      surrounded by fringes of wax. The fourth instar being the pupal stage, is flat, oval, greyish in colour and slightly bigger than the nymph. There is a 'T' shaped white marking on the thorax, which splits at the time of adult emergence.",
+          "Adult: Pale yellow body with hyaline wings dusted with waxy bloom, exhibit brisk fluttering movements."
+        ],
+        "management": {
+          "management_practices": [
+            "Avoid water stagnation and provide proper drainage facilities",
+            "Detrashing of cane at the 5th and 7 th month",
+            "Avoid the excess application of fertilizers",
+            "Detrashing the puparia bearing leaves and immediately disposing by burning or burying to prevent emergence of adult white flies.",
+            "Ensure adequate irrigation which facilitates the soil moisture and reduces the multiplication.",
+            "Spray fenitrothion 50 EC @ 2 lit / ha (1000 lit spray fluid)",
+            "Spray thiamethoxan 25 WG @ 125g/ha, 750 litres of spray fluid.",
+            "Spraying acephate 2g per lit of water.the spray has to be repeated after a month to kill the nymphs emerging from eggs",
+            "Application of chlorpyriphos @ 1250 lit spray fluid by using hand sprayer"
+          ]
+        }
+      },
+      {
+        "name": "Sugarcane Wooly Aphid: Ceratovacuna lanigera",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_5.html",
+        "symptoms": [
+          "Congregation of large number of white coloured nymphs and adults on the under surface of leaf.",
+          "Yellowing and drying of leaves from the tip along the margins.",
+          "Leaves become brittle and dries completely.",
+          "Heavy secretion of honey dew leads to development of sooty mold.",
+          "Deposition of wooly matter on ground / soil distinctly visible.",
+          "Nmphs are yellowish white in colour with less powdery substance. Two forms of adult viz ., apterate and alate. The Alate forms are predominantly white in colour. Apterate often possesses crenulated margins of wax glands in rows. Such wax glands are absent in alate. Adult emerge after fourth moult and viviparous reproduction. Apterous (Wingless) female reproduce parthenogenetically. Each female produced about 15 â 35 young ones. Each female reproduces maximum of 217 nymphs with more number of females, which leads to fast multiplication. Nymph takes 6 to 22 days to complete four instars and become adult.",
+          "Nmphs are yellowish white in colour with less powdery substance. Two forms of adult viz ., apterate and alate. The Alate forms are predominantly white in colour. Apterate often possesses crenulated margins of wax glands in rows. Such wax glands are absent in alate. Adult emerge after fourth moult and viviparous reproduction. Apterous (Wingless) female reproduce parthenogenetically. Each female produced about 15 â 35 young ones. Each female reproduces maximum of 217 nymphs with more number of females, which leads to fast multiplication. Nymph takes 6 to 22 days to complete four instars and become adult."
+        ],
+        "management": {
+          "pathogen": [
+            "Release Encarsia flavoscutellum",
+            "Dip the seed sets in Chlorpyripos 20 EC solution (2 ml / lit) before planting.",
+            "Apply phorate 10 G @ 5kg / ac or Spray with acephate75 SP 1g / lit Chlorpyriphos 20 EC 2 ml / lit",
+            "Spray Malathion 50 EC 2 ml / lit",
+            "Dimethoate 30 EC 1.7 ml / lit, Oxydemeton methyl 25 EC 1.3 ml / lit, or Dusting with Malathion 5% dust @ 10 kg / ac."
+          ],
+          "management_practices": [
+            "Paired row system of planting.",
+            "Avoid excessive use of nitrogenous fertilizers.",
+            "Use of organic fertilizers.",
+            "Rapping of canes all along the rows.",
+            "Infested tops should not be transported.",
+            "Infested canes should not be used as seed material for planting.",
+            "Encourage natural predators viz., Diapha aphidivora , Ishchiodon scutellaris , Episyrphus baleatus, Chrysopa sp., Schymnus sp., Cheilomenes sexmaculata, Coccinella septempunctata, Synnonycha grandis, Brumus sp. and Dideopsis aegrota"
+          ]
+        }
+      },
+      {
+        "name": "Mealybug: Saccharicoccus sacchari",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_6.html",
+        "symptoms": [
+          "Pinkish oval insects beneath leaf sheath on the nodes, with whitish mealy coating.",
+          "Main cane stunned also attack roots.",
+          "Sooty mould develops on the honey dew giving blackish appearance on canes which attack the black ants",
+          "Yellowing of leaves",
+          "Eggs: Eggs are retained in the female reproductive organs until they fully mature.Â  Incubation period is short. The females may bring forth hundreds of young ones parthenogenetically. Egg is yellowish, smooth, cylindrical and rounded at both ends.",
+          "Nymph: Newly emerged nymphs are quite active with a pinkish transparent body.",
+          "Adult: Pinkish with mealy coating."
+        ],
+        "management": {
+          "management_practices": [
+            "Use resistant varieties like CO 439, CO 443, CO 720, CO 730 and CO 7704",
+            "Drain excess water from the field.",
+            "Detrash the crop on 150 and 210 DAP",
+            "Avoid excess usage of Nitrogen fertilizers",
+            "Apply any one of the following insecticides per ha and when the incidence is noticed spray on the stem only, methyl parathion 50 EC 1000 ml, malathion 50 EC 1000 ml.",
+            "If severe infestation is noticed detrash and spray with dimethoate 30 EC @ 1 ml/ lit mixed with fish oil resin resin soap @ 2.5 ml/lit. Direct the spray on growing point and clump region and in the soil below the clump."
+          ]
+        }
+      },
+      {
+        "name": "White Grub: Holotrichia consanguinea",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_7.html",
+        "symptoms": [
+          "Yellowing and wilting of leaves.",
+          "Drying of entire crown.",
+          "Affected canes come off easily when pulled.",
+          "Cause extensive damage to roots and base of shoot.",
+          "Affected canes shows lodging in the field.",
+          "Damages can seen more in ratoon crop when compare to plant crop",
+          "Egg: A female lays on an average of 27 eggs in the soil, which are pear like and enclosed in earthen cells.",
+          "Grub: Fleshy 'C' shaped, whitish yellow in colour found close to the base of the clump.",
+          "Pupa : Pupae are tan to brown, and occur deeper in the soil in earthen chambers.",
+          "Adult: Adult beetles are a rusty-red colour just after emerging from the pupal stage, but turn nearly black."
+        ],
+        "management": {
+          "management_practices": [
+            "Provide adequate irrigation.",
+            "Deep ploughing immediately after harvesting.",
+            "Avoid ratoon cropping",
+            "Stagnating water for 24hrs in the field then the grub will come out from the soil",
+            "Collect and destroy the adult beetles, harbouring in near by Neem, Ailanthus, and Acacia trees immediately after the summer showers using using powerful petromax lights as a mass campaign in areas near to forest and hilly regions.",
+            "Apply Beauveria brongniortii @ 2.5 kg/ha (1*109 cfu/g) entopathogenic fungal formulation along with FYM at the time of planting in endemic regions."
+          ]
+        }
+      },
+      {
+        "name": "Scale Insects: Melanaspis glomerata",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_8.html",
+        "symptoms": [
+          "The leaves of infested canes show signs of tip drying and unhealthy pale green colour and severe infestation causes yellowing.",
+          "Severe desapping leads to non-opening of leaves, which also turn yellow and finally dry up.",
+          "Infested crop losses its vigour, canes shrivel, growth is stunted and the internodal length is reduced drastically.",
+          "Ultimately cane dries up. Such canes when slit open appear brownish red.",
+          "Thick brown encrustations are seen on the nodal and intermodal regions in severely affected canes.",
+          "Nymph: Females multiply ovo-viviparously. The nymphs that hatch out from the eggs within the female’s body come out through the genital aperture. They are called 'crawlers'. They settle after selecting suitable site for feeding.",
+          "Adult: Greyish black or brown circular scales, they cover the nodal region forming a thick encrustation."
+        ],
+        "management": {
+          "management_practices": [
+            "Use resistant varieties like CO 439, CO 443, CO 453, CO 671, CO 691 and CO 692",
+            "Select and plant the scale insect free setts.",
+            "Keep the fields and bunds free from weeds.",
+            "Avoid water stagnation in the field for a longer period.",
+            "Avoid repeated ratoons.",
+            "Detrash the crop at 150th and 210th day of plnting.",
+            "Setts should be dipped in dichlorvos at 1ml per lit of water and placed in cement bags with the mouth tied and transported to planting area",
+            "Release Chilocorus nigritus (or) Pharascymnus horni egg card @ 5cc/ac",
+            "Also release hymenopteran parasitoides like anabrotepis mayurai, cheiloneurus sp and predatory mites like saniosulus nudus and tyrophagus puttseartiae which feed on scale insect.",
+            "Pre-soak the setts in 0.1% solution malathion.",
+            "Spray dimethoate @ 2ml/ lit along with sticker after detrashing.",
+            "Apply contact insecticides like dichlorvos or any @ 2ml/lit of water by using hand sprayer."
+          ]
+        }
+      },
+      {
+        "name": "Termites: Odontotermes obesus Rhamb",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_9.html",
+        "symptoms": [
+          "Characteristic semi- circular feeding marks on the margin of the leaves in the standing crop.",
+          "Poor germination of setts (after planting)",
+          "Causes yellowing and drying of outer leaves first followed by the inner leaves",
+          "Entire shoot dries up and can be pulled out.",
+          "Setts hollow inside and may be filled with soil.",
+          "Eggs: Dull, kidney shaped and hatches in 30-90 days",
+          "Nymphs : Moult 8-9 times and are full grown in 6-12 months",
+          "Adult: Creamy coloured tiny insects resembling ants with dark coloured head."
+        ],
+        "management": {
+          "management_practices": [
+            "Flood irrigation at the time of planting because it stops termite attack due to excess moisture and the optimum moisture level will revive.",
+            "Fill the gaps in the field to compensate the population",
+            "Locate and destroy the termite colony.",
+            "Collect and destroy the termite affected setts from the field.",
+            "Dip the setts in imidacloprid 70WS 0.1% or chlopyriphos 20 EC 0.04% for 5min.",
+            "Treat the soil with lindane 1.6 D @ 50 kg / ha"
+          ]
+        }
+      },
+      {
+        "name": "Grasshoppers: Hieroglyphus banyan",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest _sugarcane_10.html",
+        "symptoms": [
+          "Adult and nymph grasshoppers feed on leaves from the margins of leaf blades creating cut out areas during the solitary stage.",
+          "Finally it leaves only the leaf midrib.",
+          "Identification of pest:",
+          "Egg: Eggs in the form of egg pods, usually more than ten, either in the sand or among leaf litters. Each egg pod consists of about 10-300 eggs that are rice shaped.",
+          "Nymph: Nymphs are miniature versions of adult grasshoppers, except that they are light in colour and do not possess wings. The nymphal stage may last for a period of 5-10 days.",
+          "Adult: After about a month, a nymph becomes an adult. An adult grasshopper lives for 1-2 months."
+        ],
+        "management": {
+          "management_practices": [
+            "Tillage - Tillage controls grasshoppers primarily by eliminating the green plants on which grasshoppers feed.",
+            "Baits containing the protozoan Nosema locustae is a biological control option that may be considered for treating grasshopper breeding sites. This is sold under the trade names Nolobait or Semaspore and can produce infection of many species of grasshoppers. Because it is selective in effects, only affecting grasshoppers.",
+            "Baits containing the protozoan Nosema locustae is a biological control option that may be considered for treating grasshopper breeding sites. This is sold under the trade names Nolobait or Semaspore and can produce infection of many species of grasshoppers. Because it is selective in effects, only affecting grasshoppers."
+          ]
+        }
+      }
+    ]
+  }
+]

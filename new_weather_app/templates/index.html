@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🌦️ Weather Dashboard</h1>
+        <form method="POST">
+            <input type="text" name="city" placeholder="Enter city name" required>
+            <button type="submit">Get Weather</button>
+        </form>
+
+        {% if alerts %}
+            <div class="alerts">
+                {% for alert in alerts %}
+                    <p>{{ alert }}</p>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        {% if weather %}
+        <div class="current-weather">
+            <h2>{{ weather.city }}</h2>
+            <p class="temp">{{ weather.temp }}°C</p>
+            <p>{{ weather.description }}</p>
+            <p>Humidity: {{ weather.humidity }}%</p>
+            <p>Wind Speed: {{ weather.wind_speed }} m/s</p>
+        </div>
+        {% endif %}
+
+        {% if forecast %}
+        <div class="forecast">
+            <h3>5-Day Forecast</h3>
+            <div class="forecast-cards">
+                {% for day in forecast %}
+                <div class="card">
+                    <p>{{ day.date }}</p>
+                    <p>{{ day.temp }}°C</p>
+                    <p>{{ day.description }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

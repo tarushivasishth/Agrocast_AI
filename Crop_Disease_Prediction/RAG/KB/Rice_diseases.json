@@ -1,0 +1,422 @@
+[
+  {
+    "crop": "Rice",
+    "diseases": [
+      {
+        "name": "Blast",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_1.html",
+        "symptoms": [
+          "The fungus attacks the crop at all stages of crop growth from seedling to late tillering and ear heading stage.",
+          "On the leaves, the lesions appear as small bluish green flecks. The lesions soon enlarge under moist weather to form the characteristic spindle shaped spots with grey centre and dark brown margin (Leaf blast). The spots coalesce as the disease progresses and large areas of the leaves dry up and wither. Spots also appear on sheath. Severely infected nursery and field appear as burnt.",
+          "Black lesions appear on nodes girdling them. The affected nodes may break up and all the plant parts above the infected nodes may die (nodal blast).",
+          "Nodal infection causes the culm to break at the infected area",
+          "Inter nodal infection also occurs at the base of the plant which causes white panicles similar to that induced by yellow stem borer or water deficit",
+          "Lesions on the neck are grayish brown and causes the girdling of the neck and the panicle to fall over",
+          "If infection of the neck occurs before milky stage, no grain is formed, but if infection occurs later, grains of poor quality are formed",
+          "Lesions on the branches of the panicles and on the spikelet pedicels are brown to dark brown",
+          "The size and shape of the spots vary on different rice varieties."
+        ],
+        "management": {
+          "pathogen": [
+            "The mycelium is hyaline to olivaceous and septate.",
+            "Conidia are produced in clusters on long septate, olivaceous conidiophores.",
+            "Conidia are pyriform to ellipsoid, attached at the broader base by a hilum. Conidia are hyaline to pale olive green, usually 3 celled.",
+            "The perfect state of the fungus is M. grisea producing perithecia. The ascospores are hyaline, fusiform, 4 celled and slightly curved."
+          ],
+          "survival_mode": [
+            "The fungus survives on collateral hosts viz., Panicum repens, Digitaria magrginata, Brachiaria mutica, Leersia hexandra and Echinochloa crusgalli.",
+            "Mycelium and conidia in the collateral hosts, straw and seeds are major sources of primary inoculum.",
+            "The secondary spread takes place through airborne conidia since spores of the fungus present throughout the year. Irrigation water may carry the conidia to different fields."
+          ],
+          "favourable_conditions": [
+            "Intermittent drizzles",
+            "Cloudy weather",
+            "High relative humidity (93-99 per cent)",
+            "Low night temperature (between 15-20 C or less than 26 C",
+            "Availability of collateral hosts",
+            "Application of excess nitrogen"
+          ],
+          "management_practices": [
+            "Grow resistant and moderately resistant varieties like CO47, CO 51, CO 52, CO 53, CO55, CO56, ASD 18 and IR64.",
+            "Remove and destory the weed hosts in the field bunds and channels.",
+            "Treat the seeds with Captan or Thiram or Carbendazim or Tricyclazole at 2 g/kg or Bacillus subtilis @ 10g/kg of seed.",
+            "Spray the nursery with Carbendazim 50 WP @ 25 g or Edifenphos 50 EC @ 25 ml for 20 cent nursery.",
+            "Foliar spray the main field with edifenphos 200 ml or carbendazim 100 g or tricyclazole 75 WP @ 200 g or iprobenphos (IBP) 200 ml /acre or  azoxystrobin + difenoconazole 100 ml/acre   when initial symptoms are noticed."
+          ],
+          "sources": [
+            "AICRIP Rice, TNAU, Coimbatore Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Brown Spot or Sesame leaf spot",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_2.html",
+        "symptoms": [
+          "The fungus attacks the crop from seedling to milky stage in main field",
+          "The spots become cylindrical or oval, dark brown with yellow halo.",
+          "The several spots coalesce and the leaf dries up.",
+          "The seedlings die and affected nurseries can be often recognised from a distance by scorched appearance.",
+          "Dark brown or black spots also appear on glumes leading to grain discoloration.",
+          "It causes failure of seed germination, seedling mortality and reduces the grain quality and weight."
+        ],
+        "management": {
+          "favourable_conditions": [
+            "Temperature of 25-30 C with relative humidity above 80 per cent is highly favourable. Excess nitrogen aggravates the disease severity.",
+            "Infected seeds and stubbles are the most common source of primary infection. The conidia present on infected grain and mycelium in the infected tissue are viable for 2 to 3 years.",
+            "Airborne conidia infect the plants both in nursery and in main field.",
+            "The fungus also survives on collateral hosts like Leersia hexandra and Echinochlora colonum."
+          ],
+          "management_practices": [
+            "Field sanitation-removal of collateral hosts and infected debris from the field",
+            "Use of slow release of nitrogenous fertilizers is advisable.",
+            "Grow resistant and moderately resistant varieties like  CO 51, CO 52, CO 53, CO 55, CO 56, ASD 18 and IR 64.",
+            "Use disease free seeds.",
+            "Treat the seeds with Thiram or Captan at 4 g/kg. Spray the nursery with Edifenphos 40 ml or Mancozeb 80 g for 20 cent nursery.",
+            "Spray the crop in the main field with Edifenphos 200 ml or Mancozeb 500 g when grade reaches 3. If needed repeat after 15 days."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Bacterial leaf blight: \nCausal organism: Xanthomonas oryzae pv. oryzae",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_23.html",
+        "symptoms": [
+          "Bacterial blight syndrome exhibits three types of symptoms: leaf blight, kresek (the seedling blight or wilt phase) and the pale-yellow leaf.",
+          "The disease has been referred to as âbacterial leaf blightâ to indicate that the âleaf blightâ phase of the syndrome is the most distinct and commonly observed symptom.",
+          "Seedlings in the nursery show circular, yellow spots in the margin, that enlarge, coalesce leading to drying of foliage.",
+          "The lesions enlarge both in length and width with a wavy margin and turn straw yellow within a few days, covering the entire leaf."
+        ],
+        "management": {
+          "pathogen": [
+            "The bacterium is aerobic, gram negative, non spore forming, rod with size ranging from 1-2 x 0.8-1.0cm with monotrichous polar flagellum.",
+            "Bacterial colonies are circular, convex with entire margins, whitish yellow to straw yellow colored and opaque."
+          ],
+          "favourable_conditions": [
+            "Clipping of tip of the seedling at the time of transplanting",
+            "Heavy rain, heavy dew, flooding, deep irrigation water",
+            "Severe wind and temperature of 25-30 0 C",
+            "Application of excessive nitrogen, especially late top dressing"
+          ],
+          "management_practices": [
+            "Burn the stubbles",
+            "Use optimum dose of fertilizers.",
+            "Avoid clipping of tip of seedling at the time of transplanting.",
+            "Avoid flooded conditions.",
+            "Remove weed hosts periodically."
+          ]
+        }
+      },
+      {
+        "name": "Rice tungro virus: Rice tungro bacilliform virus (RTBV) and Rice tungro spherical virus (RTSV)",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_24.html",
+        "symptoms": [
+          "Plants affected by tungro exhibit stunting and reduced tillering. Leaves become       yellow or orange-yellow, it may also have rust-colored spots.",
+          "Yellowing starts from the tip of the leaf and may extend to the lower part of the leaf blade. Third leaf from the top most infected plants is taller than other leaves.",
+          "Young leaves are often mottled with pale green to whitish interveinal stripes and the old leaves may have rusty streaks of various sizes.",
+          "Delayed flowering - panicles are small and not completely exerted",
+          "Most panicles are sterile or partially filled grains.",
+          "The plants may be killed if infected early.",
+          "Tungro virus disease affects all growth stages of the rice plant specifically high at vegetative stage."
+        ],
+        "management": {
+          "management_practices": [
+            "Light traps are to be set up to attract and control the leaf hopper vectors as well as to monitor the population.",
+            "Install light trap @ one/ha .",
+    
+            "Planting of resistant varieties against tungro virus disease is the most economical means of managing the disease.",
+            "Grow disease tolerant cultivars like MTU 9992, 1002, 1003, 1005, Suraksha, Vikramarya, Bharani, IR 36, IET 2508, RP 4-14, IET 1444, IR50 and Co45.",
+    
+            "Leaf yellowing can be minimized by spraying 2 % urea mixed with Mancozeb at 2.5 gm/lit.",
+            "Instead of urea foliar fertilizer like multi-K (potassium nitrate) can be sprayed at 1 per cent which impart disease resistance because of high potassium content."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore Rice diseases- online resource, IRRI, Phillippines."
+          ]
+        }
+      },
+      {
+        "name": "Sheath Rot",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_5.html",
+        "symptoms": [
+          "Initial symptoms are noticed only on the upper most leaf sheath enclosing young panicles.",
+          "The flag leaf sheath show oblong or irregular greyish brown spots.",
+          "They enlarge and develop grey centre and brown margins covering major portions of the leaf sheath.",
+          "The young panicles may remain within the sheath or emerge partially. The panicles rot and abundant whitish powdery fungal growth is formed inside the leaf sheath"
+        ],
+        "management": {
+          "pathogen": [
+            "The fungus produces whitish, sparsely branched, septate mycelium.",
+            "Conidia are hyaline, smooth, single celled and cylindrical in shape."
+          ],
+          "favourable_conditions": [
+            "Closer planting, high doses of nitrogen, high humidity and temperature around 25-30 C. Injuries made by leaf folder, brown plant hopper and mites increase infection.",
+            "Injuries made by leaf folder, brown plant hopper and mites increase infection.",
+            "Mainly through air-borne conidia and also seed-borne."
+          ],
+          "management_practices": [
+            "Spray Carbendazim 100g or Edifenphos 200ml or mancozeb 500 g /ac at boot leaf stage and 15 days later.",
+            "Soil application of gypsum (200 kg/ac) in two splits.",
+            "Application of NSKE 5% or neem oil 3 % or Ipomoea or prosopis leaf powder extract 10 Kg/ac. First spray at boot leaf stage and second 15 days later."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved.."
+          ]
+        }
+      },
+      {
+        "name": "Sheath Blight",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_6.html",
+        "symptoms": [
+          "The fungus affects the crop from tillering to heading stage.",
+          "Initial symptoms are noticed on leaf sheaths near water level.",
+          "On the leaf sheath oval or elliptical or irregular greenish grey spots are formed.",
+          "As the spots enlarge, the centre becomes greyish white with an irregular blackish brown or purple brown       border.",
+          "Lesions on the upper parts of plants extend rapidly coalesing with each other to cover entire tillers       from the water line to the flag leaf.",
+          "The presence of several large lesions on a leaf sheath usually causes death of the whole leaf, In severe cases all the leaves of a plant may be blighted in this way. The infection extends to the inner sheaths resulting in death of the entire plant. Older plants are highly susceptible. Plants heavily infected in the early heading and grain filling growth stages produce poorly filled grain, especially in the lower part of the panicle..",
+          "In severe cases all the leaves of a plant may be blighted in this way.",
+          "The infection extends to the inner sheaths resulting in death of the entire plant.",
+          "Older plants are highly susceptible.",
+          "Plants heavily infected in the early heading and grain filling growth stages produce poorly filled grain, especially in the lower part of the panicle.."
+        ],
+        "management": {
+          "pathogen": [
+            "The fungus produces septate mycelium which are hyaline when young, yellowish brown when old.",
+            "It produces large number of spherical brown sclerotia."
+          ],
+          "favourable_conditions": [
+            "Presence of sclerotia or infection bodies floating on the water",
+            "Presence of the sclerotia in the soil",
+            "Relative humidity from 96 to 100%",
+            "Temperature from 28-32 Â°c",
+            "High levels of nitrogen fertilizer",
+            "High seeding rate or closing plant spacing",
+            "Frequent rain",
+            "Mode of Spread and Survival",
+            "The pathogen can survive as sclerotia or mycelium in dry soil for about 20 months but for 5-8 months in moist soil.",
+            "Sclerotia spread through irrigation water.",
+            "The fungus has a wide host range."
+          ],
+          "management_practices": [
+            "Apply organic amendments viz., neem cake @ 60Kg/ac or FYM 5 tonnes/ha.",
+            "Avoid flow of irrigation water from infected fields to healthy fields. .",
+            "Deep ploughing in summer and burning of stubbles.",
+            "Spray Carbendazim 100 g /ac. Soil application of B. subtilis @ of 1 kg/ac after 30 days of transplanting. (The product should be mixed with 20 kg of FYM/Sand and applied). Foliar spray at 0.2% at boot leaf stage and 10 days later.(400 g/ac)."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "False smut / Lakshmi disease",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_7.html",
+        "symptoms": [
+          "The fungus transforms individual ovaries/grains into greenish spore balls of velvety appearance.",
+          "Few to several spikelets in a panicle are affected."
+        ],
+        "management": {
+          "pathogen": [
+            "Sclerotia present in soil germinate and produce ascospores. They serve as primary source of inoculum.",
+            "Chlamydospores are formed in the infected grains as spore balls which are spherical to elliptical, warty and olivaceous.",
+            "Smut spores are air borne and responsible for secondary spread."
+          ],
+          "favourable_conditions": [
+            "Rainfall and cloudy weather during flowering and maturity, high soil nitrogen.",
+            "Some of the       green spore balls develop one to four sclerotia in the center.",
+            "These       sclerotia overwinter in the field and produce stalked stromata the       following summer or autumn.",
+            "In temperate       regions, the fungus survives the winter by means of sclerotia as well as       chlamydospores.",
+            "The primary infections are initiated mainly by the ascospores       produced from the sclerotia.",
+            "Chlamydospores       play an important role in secondary infection, which is a major part of       the disease cycle."
+          ],
+          "management_practices": [
+            "Destruction of straw and stubble from infected plants.",
+            "Avoid field activities when the plants are wet.",
+            "At the time of harvesting, diseased plants should be removed and destroyed so that sclerotia do not fall in the field.",
+            "This will reduce primary inoculum for the next crop.",
+            "Field bunds and irrigation channels should be kept clean to eliminate alternate hosts.",
+            "Excess application of nitrogenous fertilizer should be avoided.",
+            "Regular monitoring of disease incidence during rabi season is very essential.",
+            "Preventive methods",
+            "Use of disease-free seeds that are selected from healthy crop.",
+            "Split application of nitrogen is recommended.",
+            "Removal and proper disposal of infected plant debris.",
+            "Seed treatment with carbendazim 2.0g/kg of seeds.",
+            "Spraying of Hexaconazole @ 100ml or Chlorothalonil  100ml or copper oxychloride @ 250g or Propiconazole @ 100 ml/ac at boot  leaf and milky stages."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore, Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Bacterial Leaf Streak",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_8.html",
+        "symptoms": [
+          "Fine translucent streaks are formed on the veins and the lesions enlarge lengthwise and infect larger veins and turn brown",
+          "On the surface of the lesions, bacterial ooze comes out and form form small yellow band-like exudates under humid conditions.",
+          "In severe cases the leaves dry up."
+        ],
+        "management": {
+          "pathogen": [
+            "The bacterium is aerobic, gram negative, non spore forming, rod with size ranging from 1-2 x 0.8-1.0ôm with monotrichous polar flagellum..",
+            "Bacterial colonies are circular, convex with entire margins, whitish yellow to straw yellow colored and opaque."
+          ],
+          "favourable_conditions": [
+            "Clipping of tip of the seedling at the time of transplanting.",
+            "Heavy rain, heavy dew, flooding, deep irrigation water.",
+            "Severe wind and temperature of 25-30 Â°c",
+            "It is transmitted through seeds and infected stubbles to the next planting season.",
+            "The pathogen spreads through irrigation water and also through rain storms."
+          ],
+          "management_practices": [
+            "Burn the stubbles.",
+            "Use optimum dose of fertilizers.",
+            "Avoid clipping of tip of seedling at the time of transplanting.",
+            "Avoid flooded conditions.",
+            "Remove weed hosts periodically.",
+            "Avoid clipping of leaf tips during transplantation.",
+            "Spray Streptomycin sulphate and tetracycline combination 120g + Copper oxychloride 500 g/ha."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore, Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Bakanae disease / foot rot: Gibberella fujikuroi",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_9.html",
+        "symptoms": [
+          "Infected  plants several inches taller than normal plants in seedbed and field",
+          "Thin plants with yellowish green leaves and pale green flag leaves",
+          "Drying of seedlings at early tillering",
+          "Reduced tillering and drying leaves at late infection",
+          "Partially filled grains, sterile or empty grains for surviving plant at maturity",
+          "In the seedbed, infected seedlings with lesions on roots will die, which may die       before or after transplanting"
+        ],
+        "management": {
+          "management_practices": [
+            "Treat the seeds with Thiram or Captan or Carbendazim at 2 g/kg."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU Coimbatore; Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Rice yellow dwarf: Candidatus phytoplasma",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_11.html",
+        "symptoms": [
+          "The infected plants are stunted and have yellowish green to whitish green leaves.",
+          "There is excessive tillering and leaves became soft and droop slightly.",
+          "Root growth is also reduced significantly.",
+          "Chlorosis occurs on the leaves occasionally even spreading to the leaf sheaths.",
+          "Streaks may also form parallel to the leaf veins.",
+          "If plants are infected early they usually die before maturity and even if they do survive no panicles are produced or only a small number with no grains."
+        ],
+        "management": {
+          "management_practices": [
+            "Deep ploughing during summer and burning of stubbles.",
+            "Rice varieties like IR62 and IR64 are resistant to the disease.",
+            "The management practices followed for Rice Tungro Disease(RTD) may be adopted for this disease also.",
+            "Avoiding early planted rice will prevent an increase in vector density and proportion of virus acquired vectors.",
+            "Planting fallow rice fields with non vector hosts, ploughing fallow paddy fields and late-planting, synchronous planting or avoiding an overlap of early and late planted rice crops.",
+            "Remove weed hosts periodically. .",
+            "Crop rotation .",
+            "The vegetation on the bunds should also be sprayed with the insecticides.",
+            "Chemical Method: Vector control with any one of the following insecticides .",
+            "Thiamethoxam 25 WDG  40g/acre (or) Imidacloprid 17.8 SL 40 ml/acre spray at 15 and 30 days after transplanting .",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Rice Grassy stunt disease :",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_12.html",
+        "symptoms": [
+          "Diseased hills are severely stunted with excessive tillering and a very upright growth habit",
+          "Diseased hills has a grassy and rosette appearance",
+          "Leaves short, narrow and yellowish green with numerous small rusty spots or patches, which form blotches",
+          "Retention of green coloration of the leaves after application of sufficient nitrogenous fertilizers",
+          "Infected plants usually survive until maturity but produce no panicles. Symptom develops 10-20 days after infection."
+        ],
+        "management": {
+          "management_practices": [
+            "Avoid close planting .",
+            "Grow varieties released by IRRI, which contain genes for BPH resistance, like IR26, IR64, IR36, IR56 and IR72.",
+            "Plouging and harrowing the field to destroy stubbles right after harvest in order to eradicate other hosts",
+            "Apply any one of the following to control vector  BPH",
+            "Phosalone 35 EC 600 ml/acre",
+            "Acephate 75 SP 250 ml/acre",
+            "Chlorpyriphos 20 EC 500 ml/acre"
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore, Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      },
+      {
+        "name": "Grain  discolouration",
+        "url": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_13.html",
+        "symptoms": [
+          "The grains may be infected by various organisms before or after  harvesting causing discolouration, the extend of which varies according to  season and locality.",
+          "The infection may be external or internal causing discoloration of  the glumes or kernels or both.",
+          "Dark brown or black spots appear on the grains.",
+          "The discolouration may be red, yellow, orange, pink or black,  depending upon the organism involved and the degree of infection.",
+          "This disease is responsible for quantitative and qualitative  losses of grains."
+        ],
+        "management": {
+          "favourable_conditions": [
+            "High humidity and cloudy weather during heading stage.",
+            "The disease spreads mainly through air-borne conidia and the fungus survives as parasite and saprophyte in the infected grains, plant debris and also on other crop debris."
+          ],
+          "management_practices": [
+            "Pre and post-harvest measures should be taken into account for prevention of grain discolouration.",
+            "Foliar spray of Neem oil @ 3 per cent at 50 % flowering stage followed by second spray 10 days later.",
+            "Seed treatment with Bacillus subtilis @ 10g/kg + one foliar spray with Azoxystrobin @ 100 ml/ac at 50 per cent flowering for the management of sheath rot and grain discolouration."
+          ],
+          "sources": [
+            "AICRIP rice, TNAU, Coimbatore, Rice diseases- online resource, IRRI, Phillippines."
+          ],
+          "acknowledgements": [
+            "IRRI, Phillippines",
+            "Â© TNAU 2008 - 2024 All Rights Reserved."
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "crop": "Potato",
+    "diseases": [
+      {
+        "name": "Late blight of potato: Phytopthora infestans",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_1.html",
+        "symptoms": [
+          "It affects leaves, stems and tubers.",
+          "Water soaked spots appear on leaves, increase in size, turn purple brown& finally black colour",
+          "White growth develops on under surface of leaves.",
+          "This spreads to petioles, rachis& stems.",
+          "It frequently develops at nodes.",
+          "Stem breaks at these points and the plant topples over. In tubers, purplish brown spots and spread to the entire surface on cutting, the affected tuber show rusty brown necrosis spreading from surface to the center."
+        ],
+        "management": {
+          "management_practices": [
+            "Protective spraying with mancozeb or zineb 0.2 % should be done to prevent infection of tubers.",
+            "Tuber contamination is minimized if injuries are avoided at harvest time and storing of visibly infected tubers before storage.",
+            "The resistant varities recommended for cultivation are Kufri Naveen, Kufri Jeevan, Kufri Alenkar, Kufri Khasi Garo and Kufri Moti.",
+            "Destruction of the foliage few days before harvest is beneficial and this is accomplished by spraying with suitable herbicide."
+          ]
+        }
+      },
+      {
+        "name": "Early blight: Alternaria solani",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_2.html",
+        "symptoms": [
+          "It is present in both hills & plains."
+        ],
+        "management": {
+          "management_practices": [
+            "Disease free seed tubers should be used for planting.",
+            "Removal and destruction of infected plant debris should be done because the spores lying in the soil are the primary source of infection.",
+            "Very early spraying with Zineb or captan 0.2% and repeating it for every 15 â 20 days gives effective control.",
+            "The variety Kufri Sindhuri possesses a fair degree of resistance."
+          ]
+        }
+      },
+      {
+        "name": "Post-harvest tuber rots: Sclerotium rolfsii",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_3.html",
+        "symptoms": [
+          "Wilting is the initial symptom.",
+          "Yellowish brown coloured Sclerotia appeared on the infected tuber.",
+          "Rotting of the tuber.",
+          "Milky white and floccose appearance of the tuber."
+        ],
+        "management": {
+          "management_practices": [
+            "Treating seeds with mercury compounds after harvest reduces tuber rot.",
+            "Treating the furrows at planting with PCNB @ 15kg/ ha reduces the disease incidence.",
+            "The disease is low in the variety Kufri Sindhuri.",
+            "Among the Indian commercial cultivars, Kufri Bahar, Kufri Chamatkar, Kufri Jyothi, Kufri muthu and Kufri swarna are resistant.",
+            "The disease can be controlled to a certain extent by growing non susceptible crops like corn and sorghum."
+          ]
+        }
+      },
+      {
+        "name": "Black scurf: Rhizoctonia solani",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_4.html",
+        "symptoms": [
+          "Black speck, black speck scab, russet scab on tubers.",
+          "At the time of sprouting dark brown colour appear on the eyes.",
+          "Affected Xylem tissue causes to wilting of plants.",
+          "Infected tuber contains russeting of the skin.",
+          "Hard dry rot with browning on internal tissue.",
+          "Seed tubers are source of spread. Moderately cool, wet weather and temp 23 Â°C are the favourable for the development of disease."
+        ],
+        "management": {
+          "management_practices": [
+            "Disease free seed tubers alone should be planted.",
+            "If there is a slight infection of black scurf that can be controlled by treating seed tubers with mercuric chloride solution for 1.5 hr with acidulated mercuric chloride solution for 5 min.",
+            "Treating the soil with pentachloroni trobenzene at the rate of 70 kg/ ha lowers the incidence of the disease, but it is too expensive and cumbersome.",
+            "Well sporulated tubrs may be planted shallow to control disease.",
+            "The disease severity is reduced in the land is left fallow for 2 years."
+          ]
+        }
+      },
+      {
+        "name": "Common scab or corkey scab: Streptomyces scabies",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_5.html",
+        "symptoms": [
+          "Corkiness of the tuber periderm is the characteristics symptoms.",
+          "1/4 inch into the tuber surface are russette appearance.",
+          "Slightly pitted on the infected tuber. Light brown to dark brown lesion appears on the infected tuber.",
+          "Affected tissue will attract insects."
+        ],
+        "management": {
+          "management_practices": [
+            "Only scab free seed potatoes should be planted as this will help in checking the spread of the inoculum and infection to be subsequent crop.",
+            "Infection of the seed tubers can be removed by 1.5hrs dip in mercuric chloride 0.1% solution or by 2h dip in 1 part formaldehyde in 240 parts of water.",
+            "This disease can be reduced by soil application of PCNB at the time of planting. Four to six years crop roation with alfalfa satisfactory under irrigated conditions.",
+            "The disease incidence can be effectively reduced by green manuring the fields before planting potatoes.",
+            "Common scab is severe in alkaline soil and application of alkaline fertilizers like calcium ammonium nitrate should be avoided."
+          ]
+        }
+      },
+      {
+        "name": "Brown rot or Bangle blight:",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_6.html",
+        "symptoms": [
+          "At the time tuber formation wilt is the main characteristic symptom.",
+          "In leaf symptom -wilt, stunt and yellowing. Browning of xylem tissue.",
+          "Eye buds are black in colour.",
+          "Bacteria ooze coming on infected tuber surface and emits a foul odour."
+        ],
+        "management": {
+          "management_practices": [
+            "Crop rotation of wheat along with potato",
+            "Use resistant varieties like Solanum pujera"
+          ]
+        }
+      },
+      {
+        "name": "Bacterial Soft rot: Erwinia carotovora subsp caratovora",
+        "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop diseases_veg_potato_7.html",
+        "symptoms": [
+          "Infection at two phases is black leg and soft rot.",
+          "Black lesion appear on the base of the plant .",
+          "Systemic and browning of infected tubers.",
+          "Yellow appearance of the plant.",
+          "Finally the plants wilt and die.",
+          "Rot and collapse of tubers.",
+          "Soft, reddish or black ring appear on the infected tuber."
+        ],
+        "management": {
+          "management_practices": [
+            "The pathogen is difficult to control because of long survival both on seed tubers and in soils.",
+            "However using disease free seed tubers could minimize the disease incidence.",
+            "Before planting the seed tubers are treated with Boric Acid (3% for 30 minutes) and dried in shade.",
+            "The same treatment is repeated before the storage of the tubers.",
+            "The disease can be reduced by soil application of PCNB (30 kg/ha) at the time of planting.",
+            "Following crop rotations with wheat, pea, oats, barley, lupin, soybean, sorghum and bajra checks the disease development.",
+            "In plains, treatment of the seed tubers with TBZ + acetic acid + 0.05% Zinc Sulphate solution or Carbendazim 1% for 15 minutes effectively controls the disease. Soaking of tubers in Mercuric chloride 0.1% formalin."
+          ]
+        }
+      }
+    ]
+  }
+]
